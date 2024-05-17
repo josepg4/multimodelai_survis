@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","liu_visual_2023"]});
